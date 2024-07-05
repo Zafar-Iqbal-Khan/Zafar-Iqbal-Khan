@@ -9,11 +9,10 @@
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
-- 🔭 I am a Fullstack (Flutter & Mern) developer from Kashmir ❤ 
-- 🌱 I’m currently learning more about BlockChain.
+- 🔭 Fullstack developer specializing in Flutter & MERN stack from Kashmir ❤️
+- 🌱 Currently diving deeper into Blockchain technology.
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
-- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
 
 ## 🌐 Socials
