@@ -12,7 +12,7 @@
 - 🔭 Fullstack developer specializing in Flutter & MERN stack from Kashmir ❤️
 - 🌱 Currently diving deeper into Blockchain technology.
 - 💬 Ask me about Flutter or any tech-related stuff.
-- 📫 How to reach me: Check social links below.
+- 📫 Reach me via my social links below..
 
 
 ## 🌐 Socials
