@@ -10,7 +10,7 @@
 # 💫 About Me :
 - 😄 Pronouns: He/His
 - 🔭 Fullstack developer specializing in Flutter & MERN stack from Kashmir ❤️
-- 🌱 Currently diving deeper into Blockchain technology.
+- 📊 Aspiring Data Scientist currently building expertise in Python, Data Analytics, and Machine Learning.
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 Reach me via my social links below..
 
